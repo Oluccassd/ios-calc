@@ -50,6 +50,7 @@
     justify-content: flex-end;
     font-size: 170px;
     color: #fff;
+    overflow: auto;
 }
 
 #butons {
